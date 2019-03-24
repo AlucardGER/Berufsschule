@@ -1,4 +1,4 @@
-# Installaton von OpenVPN-Server + Verbindung von Windows Client
+# Installation von OpenVPN-Server + Verbindung von Windows Client
 Websites:
 - https://github.com/OpenVPN/easy-rsa/blob/master/README.quickstart.md
 - https://community.openvpn.net/openvpn/wiki/GettingStartedwithOVPN
